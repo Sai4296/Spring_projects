@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="companyRegistration/src/main/java"/>
+	<classpathentry kind="src" path="companyRegistration/src/test/java"/>
+	<classpathentry kind="src" path="ecom-main/src/main/java"/>
+	<classpathentry kind="src" path="ecom-main/src/test/java"/>
+	<classpathentry kind="src" path="product-service/src/main/java"/>
+	<classpathentry kind="src" path="product-service/src/test/java"/>
+	<classpathentry kind="src" path="Security/src/main/java"/>
+	<classpathentry kind="src" path="Security/src/test/java"/>
+	<classpathentry kind="src" path="SecurityOauth2Demo/src/main/java"/>
+	<classpathentry kind="src" path="SecurityOauth2Demo/src/test/java"/>
+	<classpathentry kind="src" path="SpringBatch5.0Demo-main/src/main/java"/>
+	<classpathentry kind="src" path="SpringBatch5.0Demo-main/src/test/java"/>
+	<classpathentry kind="output" path="Security/target/classes"/>
+</classpath>
